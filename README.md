@@ -554,6 +554,7 @@ Xem hướng dẫn đóng góp tại đây: [CONTRIBUTING.md](CONTRIBUTING.md)
 <summary><strong>Loan</strong></summary>
 
 - Loan khồn
+- Loan có biết tên thật của GREDY ko? - Ko biết à? Đoàn Thế Lân
 
 </details>
 
